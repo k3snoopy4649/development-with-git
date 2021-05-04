@@ -1,1 +1,1 @@
-console.log("locker");
+console.log("");
